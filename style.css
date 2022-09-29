@@ -1,0 +1,9 @@
+body{
+    background-size:cover ;
+    
+}
+.heading{
+    background-color: rgb(0, 255, 242);
+    font-size:30px;
+    padding: 4px;
+}
